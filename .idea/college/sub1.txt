@@ -1,3 +1,5 @@
 english
 hindi
 marathi
+pooja
+bhosale
